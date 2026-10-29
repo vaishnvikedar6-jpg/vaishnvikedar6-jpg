@@ -1,163 +1,233 @@
-<!-- ═══════════════════════════════════════════════════════════
-     VAISHNAVI KEDAR | PREMIUM GITHUB PROFILE README
-     Theme: Midnight Burgundy • Rose • Ivory
-     Repository: vaishnvikedar6-jpg/vaishnvikedar6-jpg
+ <!-- ═══════════════════════════════════════════════════════════
+ VAISHNAVI KEDAR | 3D-INSPIRED TECH GITHUB PROFILE
+ Theme: Cyber Burgundy • Neon Rose • Midnight
 ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/vaishnvikedar6-jpg">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:10070C,35:451126,70:701A3D,100:C77B9B&text=VAISHNAVI%20KEDAR&fontColor=F8F0F3&fontSize=48&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%7C%20CREATIVE%20TECHNOLOGY&descSize=13&descAlignY=61&stroke=C77B9B&strokeWidth=1&animation=fadeIn" width="100%" alt="Vaishnavi Kedar — Burgundy Animated Profile Banner"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:08060C,20:190B24,45:451126,70:701A3D,100:C77B9B&text=VAISHNAVI%20KEDAR&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=%3C%20COMPUTER%20ENGINEERING%20%2F%3E&descSize=17&descAlignY=60&stroke=E5B5C7&strokeWidth=1&animation=fadeIn" alt="Vaishnavi Kedar cyber burgundy hero"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=E5B5C7&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+CREATIVE+MIND...;%3E+EXPLORING+DATA+%7C+CODE+%7C+DESIGN;%3E+TURNING+IDEAS+INTO+PROJECTS;%3E+LEARN.+BUILD.+EVOLVE." alt="Animated tech introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=E5B5C7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+SIES+GST;Exploring+Data+Analytics+%26+Web+Development;Designing+Thoughtful+Digital+Experiences;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction"/>
-
-<br/><br/>
-
 <a href="https://vaishnvikedar6-jpg.github.io/design-portfolio-website/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C77B9B?style=for-the-badge&logo=githubpages&logoColor=10070C" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/%E2%97%88%20PORTFOLIO-C77B9B?style=for-the-badge&logo=googlechrome&logoColor=10070C" alt="Portfolio"/>
 </a>
-&nbsp;
 <a href="https://github.com/vaishnvikedar6-jpg?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Projects"/>
+<img src="https://img.shields.io/badge/%E2%97%88%20PROJECTS-451126?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects"/>
 </a>
-&nbsp;
 <a href="https://www.figma.com/proto/4z78d3naEOI0XzCR0oc4J7/AVIRA?node-id=18-5970&p=f&t=HTtdusOLcz7s1fXC-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A790&starting-point-node-id=18%3A5970">
-  <img src="https://img.shields.io/badge/FIGMA%20DESIGNS-E5B5C7?style=for-the-badge&logo=figma&logoColor=451126" alt="Figma designs"/>
+<img src="https://img.shields.io/badge/%E2%97%88%20DESIGN%20LAB-E5B5C7?style=for-the-badge&logo=figma&logoColor=451126" alt="Design lab"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BASED%20IN-INDIA-451126?style=flat-square&labelColor=10070C" alt="Based in India"/>
-<img src="https://img.shields.io/badge/FOCUS-LEARN%20%26%20BUILD-701A3D?style=flat-square&labelColor=10070C" alt="Learning and building"/>
+<img src="https://img.shields.io/badge/STATUS-CURIOUS%20%26%20BUILDING-C77B9B?style=flat-square&labelColor=10070C" alt="Learning status"/>
+<img src="https://img.shields.io/badge/BASE-INDIA-451126?style=flat-square&labelColor=10070C" alt="Based in India"/>
 
 </div>
 
 ---
-
-## 01 / ABOUT ME
-
-<img align="right" width="155" src="https://capsule-render.vercel.app/api?type=rounded&height=155&section=header&text=VK&fontSize=56&fontColor=E5B5C7&fontAlignY=55&color=0:190B12,100:451126" alt="VK monogram"/>
-
-Hey there! I'm **Vaishnavi Kedar** — a Computer Engineering student at **SIES Graduate School of Technology, Nerul**.
-
-I'm interested in using technology and design to solve practical problems. I enjoy exploring data, creating digital experiences, and building projects that connect thoughtful interfaces with useful functionality.
-
-- 🎓 Computer Engineering student
-- 📊 Exploring Data Analytics and business insights
-- 💻 Learning web development and software engineering
-- 🎨 Interested in UI/UX design and prototyping
-- 🌱 Continuously learning through projects and experimentation
-
-<br clear="right"/>
-
----
-
-## 02 / WHAT I'M EXPLORING
 
 <div align="center">
 
-| DATA ANALYTICS | WEB DEVELOPMENT | UI/UX DESIGN |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Excel-1D6F42?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/> |
-| Data organization | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> | Wireframing |
-| Formulas and analysis | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> | Prototyping |
-| Exploring Power BI | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> | Visual design |
+### `01 // SYSTEM PROFILE`
+
+**A curious mind. A creative approach. A growing developer.**
 
 </div>
 
-### Tools & Technologies
+Hey! I'm **Vaishnavi Kedar**, a Computer Engineering student at **SIES Graduate School of Technology, Nerul**.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,mysql,git,github,vscode,figma&theme=dark" alt="Technology icons"/>
-
-</div>
-
-<sub>These are areas and tools I've worked with or am exploring at different levels. The icons represent my learning interests, not a claim of professional proficiency in every technology.</sub>
-
----
-
-## 03 / SELECTED PROJECTS
-
-A few projects where I bring together problem-solving, technology and design.
+I'm exploring the intersection of technology, data and design. I enjoy turning ideas into practical projects, experimenting with interfaces, and learning how software works behind the scenes.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 AyushLink
+**`IDENTITY.SYS`**
 
-**Offline-First Rural Healthcare**
-
-A healthcare project concept focused on improving access to essential health information and emergency support in low-connectivity rural areas.
-
-**Focus areas**
-- Offline-first healthcare workflows
-- Patient records and telemedicine
-- Emergency-response prototype
-
-<a href="https://github.com/vaishnvikedar6-jpg/AYUSHLINK-FINAL">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="AyushLink repository"/>
-</a>
+- 🎓 Computer Engineering
+- 📊 Exploring Data Analytics
+- 💻 Web Development
+- 🎨 UI/UX & Figma
+- 🌱 Learning through projects
 
 </td>
 <td width="50%" valign="top">
 
+**`CURRENT.DIRECTION`**
+
+- Understand data and insights
+- Build useful web experiences
+- Improve problem-solving skills
+- Design thoughtful interfaces
+- Develop consistently
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `02 // TECHNOLOGY MATRIX`
+
+*Tools and technologies I'm learning, exploring or using in projects.*
+
+</div>
+
+<div align="center">
+
+**DATA & ANALYTICS**
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+<br/><br/>
+
+**WEB DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" alt="Web development technologies"/>
+
+<br/><br/>
+
+**DATABASE & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Database and developer tools"/>
+
+<br/><br/>
+
+**DESIGN**
+
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" alt="Design tools"/>
+
+</div>
+
+<sub>Technology icons indicate areas of interest and learning; they do not imply equal proficiency in every tool.</sub>
+
+---
+
+<div align="center">
+
+### `03 // PROJECT HOLOGRAMS`
+
+*Ideas transformed into interfaces, prototypes and code.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_01-701A3D?style=for-the-badge&logo=heart&logoColor=FFFFFF" alt="Project 01"/>
+
+### 🩺 AyushLink
+
+**Offline-First Rural Healthcare**
+
+</div>
+
+A healthcare project focused on improving access to health information and emergency support in low-connectivity rural communities.
+
+- Offline-first workflows
+- Telemedicine and health records
+- Emergency-response prototype
+
+<div align="center">
+
+<a href="https://github.com/vaishnvikedar6-jpg/AYUSHLINK-FINAL">
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-E5B5C7?style=for-the-badge&logo=github&logoColor=10070C" alt="AyushLink repository"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_02-701A3D?style=for-the-badge&logo=messagecircle&logoColor=FFFFFF" alt="Project 02"/>
+
 ### 🌐 Anuvaad
 
-**Language & Chatbot Project**
+**Chatbot Web Project**
+
+</div>
 
 A web-based chatbot project exploring conversational interaction and accessible digital experiences.
 
-**Focus areas**
-- Web interface
-- Chatbot interaction
-- User-friendly presentation
+- Interactive web interface
+- Chatbot experience
+- User-focused presentation
+
+<div align="center">
 
 <a href="https://vaishnvikedar6-jpg.github.io/Anuvaad-chatbot/">
-  <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-451126?style=for-the-badge&logo=githubpages&logoColor=white" alt="Anuvaad live project"/>
+<img src="https://img.shields.io/badge/LAUNCH%20LIVE%20SITE-E5B5C7?style=for-the-badge&logo=googlechrome&logoColor=10070C" alt="Anuvaad live site"/>
 </a>
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_03-701A3D?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Project 03"/>
+
 ### ✨ AVIRA
 
-**Digital Safety for Women — UI/UX**
+**Digital Safety for Women**
 
-A design prototype exploring a digital safety experience with a focus on accessible, thoughtful user interactions.
+</div>
 
-**Focus areas**
-- Figma prototyping
-- Interface design
-- User experience
+A UI/UX concept exploring a digital safety experience with thoughtful interface design and prototyping.
+
+- Figma prototype
+- Interface exploration
+- User experience design
+
+<div align="center">
 
 <a href="https://www.figma.com/proto/4z78d3naEOI0XzCR0oc4J7/AVIRA?node-id=18-5970&p=f&t=HTtdusOLcz7s1fXC-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A790&starting-point-node-id=18%3A5970">
-  <img src="https://img.shields.io/badge/VIEW%20FIGMA%20PROTOTYPE-C77B9B?style=for-the-badge&logo=figma&logoColor=10070C" alt="AVIRA prototype"/>
+<img src="https://img.shields.io/badge/OPEN%20PROTOTYPE-E5B5C7?style=for-the-badge&logo=figma&logoColor=10070C" alt="AVIRA Figma prototype"/>
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 My Design Folio
+<div align="center">
 
-**Personal Design Portfolio**
+<img src="https://img.shields.io/badge/PROJECT_04-701A3D?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Project 04"/>
 
-A portfolio website to showcase my creative work, visual direction and digital design projects.
+### 🎨 Design Folio
 
-**Focus areas**
-- Portfolio design
-- Visual storytelling
-- Web presentation
+**Personal Portfolio Website**
+
+</div>
+
+A personal website for presenting creative work, portfolio projects and digital design explorations.
+
+- Visual presentation
+- Portfolio storytelling
+- Web design
+
+<div align="center">
 
 <a href="https://vaishnvikedar6-jpg.github.io/design-portfolio-website/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-701A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Design portfolio"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-E5B5C7?style=for-the-badge&logo=googlechrome&logoColor=10070C" alt="Design Folio"/>
 </a>
+
+</div>
 
 </td>
 </tr>
@@ -166,78 +236,121 @@ A portfolio website to showcase my creative work, visual direction and digital d
 <div align="center">
 
 <a href="https://github.com/vaishnvikedar6-jpg?tab=repositories">
-  <img src="https://img.shields.io/badge/DISCOVER%20MORE%20PROJECTS-190B12?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="More GitHub projects"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-190B12?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="All repositories"/>
 </a>
 
 </div>
 
 ---
 
-## 04 / GITHUB ACTIVITY
-
 <div align="center">
 
-<a href="https://github.com/vaishnvikedar6-jpg">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnvikedar6-jpg&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=451126&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
-</a>
+### `04 // GITHUB TELEMETRY`
 
-<br/><br/>
-
-<a href="https://github.com/vaishnvikedar6-jpg">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnvikedar6-jpg&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&rank_icon=github" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/vaishnvikedar6-jpg">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnvikedar6-jpg&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most-used programming languages"/>
-</a>
-
-<br/><br/>
-
-<sub>Activity and statistics are provided by third-party services and may occasionally be unavailable. Figures depend on the data those services can access.</sub>
+*Explore my public coding activity and repositories.*
 
 </div>
 
----
-
-## 05 / MY APPROACH
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-LEARN-451126?style=for-the-badge&labelColor=10070C" alt="Learn"/>
-&nbsp;
-<img src="https://img.shields.io/badge/02-EXPERIMENT-701A3D?style=for-the-badge&labelColor=10070C" alt="Experiment"/>
-&nbsp;
-<img src="https://img.shields.io/badge/03-BUILD-C77B9B?style=for-the-badge&labelColor=10070C" alt="Build"/>
-&nbsp;
-<img src="https://img.shields.io/badge/04-IMPROVE-E5B5C7?style=for-the-badge&labelColor=10070C" alt="Improve"/>
-
-<br/><br/>
-
-I believe progress comes from staying curious, building consistently, and learning from every project.
-
-</div>
-
----
-
-## 06 / LET'S CONNECT
-
 <div align="center">
 
 <a href="https://github.com/vaishnvikedar6-jpg">
-  <img src="https://img.shields.io/badge/GITHUB-10070C?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnvikedar6-jpg&bg_color=10070C&color=E5B5C7&line=C77B9B&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%" alt="GitHub activity graph"/>
 </a>
-&nbsp;
+
+<br/><br/>
+
+<a href="https://github.com/vaishnvikedar6-jpg">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnvikedar6-jpg&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/vaishnvikedar6-jpg">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnvikedar6-jpg&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/vaishnvikedar6-jpg?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20CODE-451126?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore code"/>
+</a>
+
+</div>
+
+<sub>Stats and activity graphics depend on third-party services. If a service is unavailable or rate-limited, its image may not render.</sub>
+
+---
+
+<div align="center">
+
+### `05 // DESIGN PHILOSOPHY`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ◈
+
+**LEARN**
+
+<sub>Stay curious.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ⌘
+
+**CREATE**
+
+<sub>Turn ideas into projects.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ⟡
+
+**EXPERIMENT**
+
+<sub>Try, test and improve.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ↗
+
+**GROW**
+
+<sub>Make steady progress.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `06 // ESTABLISH CONNECTION`
+
+*Have a project idea or want to connect? Explore my work below.*
+
+<br/>
+
+<a href="https://github.com/vaishnvikedar6-jpg">
+<img src="https://img.shields.io/badge/GITHUB-10070C?style=for-the-badge&logo=github&logoColor=E5B5C7" alt="GitHub"/>
+</a>
 <a href="https://vaishnvikedar6-jpg.github.io/design-portfolio-website/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-451126?style=for-the-badge&logo=googlechrome&logoColor=F8F0F3" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-451126?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio"/>
 </a>
-&nbsp;
 <a href="https://www.figma.com/proto/4z78d3naEOI0XzCR0oc4J7/AVIRA?node-id=18-5970&p=f&t=HTtdusOLcz7s1fXC-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A790&starting-point-node-id=18%3A5970">
-  <img src="https://img.shields.io/badge/FIGMA-C77B9B?style=for-the-badge&logo=figma&logoColor=10070C" alt="Figma"/>
+<img src="https://img.shields.io/badge/FIGMA-C77B9B?style=for-the-badge&logo=figma&logoColor=10070C" alt="Figma"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451126,50:701A3D,100:10070C&height=130&section=footer&text=THANKS%20FOR%20VISITING&fontSize=19&fontColor=F8F0F3&fontAlignY=63" width="100%" alt="Thanks for visiting — burgundy footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:10070C,45:451126,80:701A3D,100:C77B9B&fontColor=F8F0F3&text=KEEP%20BUILDING.&fontSize=26&fontAlignY=65&animation=fadeIn" alt="Keep building — animated burgundy footer"/>
 
-<sub>Designed with curiosity, built with intention. © Vaishnavi Kedar</sub>
+<sub>VAISHNAVI KEDAR · COMPUTER ENGINEERING · INDIA</sub>
+
+<sub>Curiosity in mind. Creativity in design. Code in progress.</sub>
 
 </div>
