@@ -198,17 +198,13 @@ A personal portfolio showcasing selected design explorations, project work, and 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnvikedar6-jpg&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=451126&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnvikedar6-jpg&bg_color=0d1117&color=ff85a2&line=ff85a2&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnvikedar6-jpg&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnvikedar6-jpg&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff85a2&icon_color=ff85a2&text_color=ffffff&count_private=true" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnvikedar6-jpg&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most-used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vaishnvikedar6-jpg&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=E5B5C7&dates=F8F0F3" alt="GitHub streak statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnvikedar6-jpg&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff85a2&text_color=ffffff" alt="Most Used Languages"/>
 
 </div>
 
